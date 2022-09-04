@@ -1,0 +1,53 @@
+#FR |
+#EN |
+Title: "Anvil"
+Contente: "Ui Manager de l'anvil"
+BoutonRepair: "Repair"
+BoutonRename: "Rename"
+
+
+#FR |
+#EN |
+NoItem: "§f[§l§4ERROR§r§f]: vous ne pouvez pas réparer de l'air"
+
+#FR |
+#EN |
+NoUsed: "§f[§l§4ERROR§r§f]: votre item est déjà à sa durabilité maximum"
+
+#FR |
+#EN |
+NoDurability: "§f[§l§4ERROR§r§f]: votre item ne posséde pas de durabilité"
+
+#FR |
+#EN |
+SuccesRepair: "§f[§l§4INFO§r§f]: votre item à été réparer avec succès"
+
+#FR |
+#EN |
+XPRepair: "10"
+
+#FR |
+#EN |
+NoXpRepair: "§f[§l§4ERROR§r§f]: vous n'avez pas assez d'xp"
+
+
+#FR |
+#EN |
+XPRename: "5"
+
+#FR |
+#EN |
+NoRename: "§f[§l§4ERROR§r§f]: vous devez enter un nom valide"
+
+#FR |
+#EN |
+NoXp: "§f[§l§4ERROR§r§f]: vous n'avez pas assez d'xp"
+
+#FR |
+#EN |
+SuccesRename: "§f[§l§4INFO§r§f]: vous avez bien rename votre item avec le nom §l§4{Name}" #Variable | {nomer}
+
+RenameTitle: "Rename"
+Label: "Renome l'item dans ta main"
+inpute: "entre un nouveau nom"
+
